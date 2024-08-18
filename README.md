@@ -11,4 +11,21 @@ Currently, two official plugins are available:
 
   https://github.com/harshshukla9/Swantantra
 
+
+
+
+
+
+  ## Demo
+
+
+  https://github.com/user-attachments/assets/53fb143f-3317-4885-81a9-eccc0b17f5ad
+
+
+  ## Live Link
+
+  https://swatantrawallet.netlify.app/
+
+  
+
   
