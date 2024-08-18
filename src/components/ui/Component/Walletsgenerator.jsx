@@ -137,7 +137,7 @@ const Walletsgenerator = () => {
     const words = mnemonic.split(' ');
 
     return (
-        <div className="container mx-auto px-4 py-8">
+        <div className="container mx-auto px-4 py-8 h-auto">
             {/* Selecting the chain */}
             <div className="flex justify-center mb-6">
                 <Select value={chain} onValueChange={selectChain}>
